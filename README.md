@@ -2,6 +2,9 @@
 
 Control your system volume using hand gestures with computer vision! This project leverages OpenCV, MediaPipe, and Pycaw to track hand movements and adjust the volume smoothly.  
 
+## 🔗 LinkedIn Post 
+https://www.linkedin.com/posts/mahossam36_computervision-opencv-python-activity-7324822204867641345-dLBN?utm_source=share&utm_medium=member_android&rcm=ACoAAEq_gYUBxKcVW19Hkk6ccMHNmGdZYrC2NyE
+
 ## ✨ Features  
 ✔️ Hand tracking using MediaPipe  
 ✔️ Real-time volume adjustment with smooth transitions  
